@@ -1,0 +1,13 @@
+{
+    "name": "liuzhongsheng/transfer-accounts",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuzhongsheng",
+            "email": "996674366@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
