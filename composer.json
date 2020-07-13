@@ -8,6 +8,14 @@
             "email": "996674366@qq.com"
         }
     ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TransferAccounts\\": "./src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
